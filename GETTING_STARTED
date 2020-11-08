@@ -19,11 +19,10 @@ To get started you need to enter commands at your command prompt:
 
 4. (Optional) To setup Juypter styles:
 
-    cd jupyter
     ./setup.sh
-    cd ..
 
 5. Fire up Jupyter Notebook:
 
-    jupyter notebook --browser firefox
+    jupyter notebook
+
 
